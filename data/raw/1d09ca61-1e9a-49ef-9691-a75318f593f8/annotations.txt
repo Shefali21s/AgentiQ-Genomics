@@ -1,3 +1,0 @@
-id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
-29ed01fd-1544-4678-82ac-067491daa19e	\N	aliquot	0a191209-9e23-48d3-b91e-ca049670f43e	General	Notification	2021-04-20T14:48:32.931857-05:00	Approved	Duplicate item: PDA BIOTEXT DNA
-8753eca9-4d6e-416c-b7ca-e10395492e65	\N	aliquot	46f39431-79cf-4335-beda-d2eb94b2fd97	General	Notification	2021-04-20T14:48:34.000276-05:00	Approved	Duplicate item: PDA BIOTEXT DNA

@@ -1,2 +1,0 @@
-id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
-08f3068e-dc1e-4bc9-ba30-cf90961a208b	\N	aliquot	b2031366-1cc1-48f4-a4d2-8754ad806cb6	General	Notification	2020-11-18T16:26:01.621191-06:00	Approved	Duplicate item: PDA Pilot - bulk-derived DNA

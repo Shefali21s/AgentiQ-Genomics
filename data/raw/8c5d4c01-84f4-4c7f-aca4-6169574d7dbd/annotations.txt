@@ -1,3 +1,0 @@
-id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
-c0b46f80-3159-4384-8934-dbd5b2ce64d0	\N	masked_somatic_mutation	8c5d4c01-84f4-4c7f-aca4-6169574d7dbd	General	Notification	2022-02-28T11:39:29.322416-06:00	Approved	Variants from SomaticSniper are not included.
-ec888fcd-5f0b-4888-9ce3-14663fef31d9	\N	aliquot	8c9608a3-d2b8-429c-8201-d3ab5fd3a496	General	Notification	2020-10-07T08:23:57.640583-05:00	Approved	Duplicate item: CCRCC Tumor heterogeneity study aliquot
