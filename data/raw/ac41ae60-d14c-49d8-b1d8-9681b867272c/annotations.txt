@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+14d46a39-f7cc-4ecc-8233-e86c1efba588	\N	aliquot	d30ab124-bcd9-49ba-bf31-10a7bfa5cfdb	General	Notification	2020-11-18T16:26:01.621191-06:00	Approved	Duplicate item: PDA Pilot - core-derived DNA
