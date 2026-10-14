@@ -1,0 +1,10 @@
+Example query:
+Show missense mutations on chromosome 7.
+
+Expected structured parameters:
+chromosome = chr7
+variant_classification = Missense_Mutation
+assembly = null
+
+The query is executed by the Python backend.
+Gemini does not generate mutation records.

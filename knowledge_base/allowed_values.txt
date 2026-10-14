@@ -1,0 +1,5 @@
+Chromosome and mutation classification values must
+match those reported by query_engine.search_schema().
+
+Use exact values from the loaded dataset.
+Do not invent chromosomes or mutation classes.

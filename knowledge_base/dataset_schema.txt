@@ -1,0 +1,9 @@
+Dataset: TCGA-derived somatic mutation data.
+Format: Mutation Annotation Format (MAF).
+Genome assembly: use the value reported by query_engine.py.
+
+Chromosome: chromosome identifier.
+Variant_Classification: mutation classification.
+Tumor_Sample_Barcode: tumor sample identifier.
+
+Tumor_Sample_Barcode identifies samples, not necessarily unique patients.

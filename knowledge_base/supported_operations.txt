@@ -1,0 +1,12 @@
+Supported operation: filter_mutations.
+
+Required argument:
+chromosome
+
+Optional arguments:
+variant_classification
+assembly
+
+The operation filters TCGA-derived mutation records.
+A valid query with no matching records returns an empty result.
+Unsupported operations must not be executed.
